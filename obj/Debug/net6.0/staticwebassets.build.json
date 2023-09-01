@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2GwvTU5lWMp5wwZVf1XXD6cgPbYFizv43nkEJvOlvCs=",
+  "Source": "leader-election",
+  "BasePath": "_content/leader-election",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
